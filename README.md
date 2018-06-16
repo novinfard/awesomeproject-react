@@ -1,6 +1,6 @@
 # My first react native app
 
-This app is built by `Create React Native App` and is easily accessible by `expo.io`. No dependency used for this project.
+This app is built by `Create React Native App` and is easily accessible by `expo.io`. No dependency is used for this project.
 
 It is also exportable to both android and ios native projects by using the following command:
 #### `npm run eject`
